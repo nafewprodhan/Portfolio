@@ -1,0 +1,18 @@
+#362f48  black gray
+#f6f6f6   light gray color
+#4958CE #A13F9E   blueish gradient
+#F1F0F5        for dashboard bg white gray
+#00B626    triangle green icon
+#FED14E    for star
+#A5C2E3    for slicer blue
+#0AEAE0    for area code
+
+========================
+Total Earnings
+Pounds
+Egyptian Pounds
+
+
+Creative IT Institute
+
+Enrolled courses on training levels
